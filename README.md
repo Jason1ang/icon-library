@@ -1,4 +1,4 @@
 # icon-library
    “`
-     !(images/blued.png)
+     !(Blued.png)
      “`
